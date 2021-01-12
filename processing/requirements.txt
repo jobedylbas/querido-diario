@@ -28,7 +28,7 @@ itemloaders==1.0.3        # via scrapy
 jmespath==0.10.0          # via boto3, botocore, itemloaders
 jsonpointer==2.0          # via jsonschema
 jsonschema[format]==3.2.0  # via spidermon
-lxml==4.6.1               # via parsel, scrapy
+lxml==4.6.2               # via parsel, scrapy
 parsel==1.6.0             # via itemloaders, scrapy
 pathspec==0.8.0           # via black
 protego==0.1.16           # via scrapy
